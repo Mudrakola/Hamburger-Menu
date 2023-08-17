@@ -1,0 +1,13 @@
+.not-found-img {
+  height: 400px;
+}
+.not-found-heading {
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: bold;
+}
+.paragraph {
+  font-size: 15px;
+  font-family: 'Roboto';
+  color: #616e7c;
+}
